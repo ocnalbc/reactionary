@@ -1,3 +1,6 @@
+
+#REACTIONARY
+
 reddit bot that spots people out of place on the anarchist subs.
 
 First function is monitoring /r/Anarchism and /r/metanarchism every 30 minutes. If OP has at least 50 combined karma in any of the designated subreddits the bot comments on their post. The subs in question are "mensrights", "whiterights", "theredpill", "coontown", and "greatapes".
@@ -5,3 +8,8 @@ First function is monitoring /r/Anarchism and /r/metanarchism every 30 minutes. 
 Second function is responding to being summoned, and this check is done every eight minutes. When called it posts the history of the user queried in the suspicious subs in addition to r@, met@, 101, kotakuinaction, and anarcho_capitalism. To call, use the following syntax:
 
 /u/isreactionary_bot[3]  USERNAME
+
+# ABOUT
+
+This is a rewrite of the great is_reactionary bot! The code was cleaned up and given a proper license, The One True License.
+
