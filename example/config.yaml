@@ -1,0 +1,7 @@
+credentials:
+  botname: myreactionbot
+  botpassword: areallyinsecurepw
+  useragent: some inane text
+data:
+  posts_scanned: /some/file/path1 
+  messages_seen: /some/file/path2
